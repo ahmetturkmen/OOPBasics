@@ -1,0 +1,6 @@
+
+
+-- The meaning of the symbols in UML diagrams are explained in following link.
+
+
+https://www.jetbrains.com/help/idea/2016.3/symbols.html
