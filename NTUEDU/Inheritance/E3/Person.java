@@ -1,8 +1,5 @@
 package tr.ahmetturkmen.InheritanceE3;
 
-/**
- * Created by ahmetturkmen on 2/19/17.
- */
 public class Person {
 
 	private String name;
